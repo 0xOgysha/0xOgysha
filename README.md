@@ -1,19 +1,3 @@
-<div align="center">
-
-# OGNJEN SANJTA
-
-### Web development · Multiplayer game scripting
-
-**Belgrade, Serbia · 0xOgysha**
-
-<a href="mailto:ognjensanjta@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0058AB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ognjen" /></a>
-<a href="https://www.linkedin.com/in/ognjensanjta/"><img src="https://img.shields.io/badge/LINKEDIN-0058AB?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="https://github.com/0xOgysha?tab=repositories"><img src="https://img.shields.io/badge/MY_PROJECTS-21262D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
-
-</div>
-
----
-
 ## About
 
 **Hi, I'm Ognjen — call me Ogy.**
