@@ -1,8 +1,9 @@
 
-## About me
-**20 years old student passionate programmer, currently lives in *Serbia, Belgrade*, studies programming.**
-- Interested in minimalist *programming*.
-
+## About
+**Hi, I’m Ognjen — call me Ogy.**
+- I build web applications and multiplayer game systems. Based in Belgrade, Serbia..
+# Tools I work with
+JavaScript · Next.js · HTML · CSS · MySQL · Python · C# · Pawn
 ## My experiences
 
 - Working on projects related to Python, C#, and JavaScript.
@@ -10,8 +11,8 @@
 - Possessing the knowledge and motivation for continuous learning and skill enhancement.
 
 
-
-[Discord](https://ogycoding.me/discord) | [Website](https://www.ogycoding.com) | [PayPal](https://paypal.me/ogyshame) | [Instagram](https://www.instagram.com/ogycoding.com)
+#Let’s connect
+[Discord](https://www.024ognjen.com/discord) | [Website](https://www.024ognjen.com) | [Gmail](https://mailto:ognjensanjta@gmail.com) | [Linkedin](https://www.linkedin.com/in/ognjensanjta/))
 
 
 
